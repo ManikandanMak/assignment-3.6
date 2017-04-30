@@ -1,0 +1,3 @@
+1)  n = 600/7 = 86 data nodes needed
+
+2) Yes the user can read the data. If a block can have 100 mb of data and if first block is completed in writing then that block is visible only the current writing block is not visible to the user for read during writing 500mb
